@@ -1,0 +1,24 @@
+# SOLVE THESE QUESTION BEFORE SOLVING THE FIRST LEETCODE QUES AND AFTER THE COMPLETION OF CORE JAVA . 
+
+1. Write a program to check if a given string is a palindrome (without using built-in reverse methods).
+2. Find the second largest number in an array without sorting it.
+3. Write a program to count the frequency of each character in a string.
+4. Reverse the words in a sentence (e.g., "Java is fun" → "fun is Java").
+5. Check if two strings are anagrams of each other.
+6. Print the Fibonacci series up to N terms using a loop (not recursion).
+7. Check whether a given number is prime, and print all prime numbers up to N.
+8. Write a program to print this pattern using nested loops:
+1
+1 2
+1 2 3
+1 2 3 4
+9. Create a class Employee with fields (id, name, salary). Create a subclass Manager
+   that adds a bonus field and overrides a display() method to show total compensation.
+10. Implement a simple BankAccount class with deposit(), withdraw(), and balance
+    check — handle insufficient balance with a custom exception.
+11. Given a list of integers, remove duplicates using a HashSet and print the result.
+12. Sort a list of Employee objects by salary using Comparator.
+13. Count word frequency in a sentence using a HashMap.
+
+14. Write a program that takes two numbers as input and divides them, handling ArithmeticException and InputMismatchException properly.
+15 . Write a recursive function to calculate the factorial of a number, and another to compute the sum of digits of a number.
